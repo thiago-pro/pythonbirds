@@ -55,7 +55,7 @@ class Fase():
 
     def adicionar_passaro(self, *passaros):
         """
-        Adiciona pássaros em uma fase
+        Adiciona pássaros em uma fase.
 
         :param passaros:
         """
