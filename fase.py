@@ -47,7 +47,7 @@ class Fase():
 
     def adicionar_porco(self, *porcos):
         """
-        Adiciona porcos em uma fase
+        Adiciona porcos em uma fase.
 
         :param porcos:
         """
